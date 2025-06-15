@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="zh-cn">
+  <head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+    <meta name="robots" content="noodp" />
+    <title>利用Flutter做成应用10：打包应用 - 我的博客</title><meta name="author" content="">
+<meta name="description" content="利用Flutter做成看图App"><meta name="keywords" content='flutter,app,应用app做成'>
+  <meta itemprop="name" content="利用Flutter做成应用10：打包应用">
+  <meta itemprop="description" content="利用Flutter做成看图App">
+  <meta itemprop="datePublished" content="2022-10-10T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2022-10-10T20:00:00+00:00">
+  <meta itemprop="wordCount" content="125">
+  <meta itemprop="image" content="http://example.org/logo.png">
+  <meta itemprop="keywords" content="flutter,app,应用app做成"><meta property="og:url" content="http://example.org/tech/build-flutter-app10/">
+  <meta property="og:site_name" content="我的博客">
+  <meta property="og:title" content="利用Flutter做成应用10：打包应用">
+  <meta property="og:description" content="利用Flutter做成看图App">
+  <meta property="og:locale" content="zh_cn">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="tech">
+    <meta property="article:published_time" content="2022-10-10T00:00:00+00:00">
+    <meta property="article:modified_time" content="2022-10-10T20:00:00+00:00">
+    <meta property="og:image" content="http://example.org/logo.png">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://example.org/logo.png">
+  <meta name="twitter:title" content="利用Flutter做成应用10：打包应用">
+  <meta name="twitter:description" content="利用Flutter做成看图App">
+      <meta name="twitter:site" content="@your-twitter">
+<meta name="twitter:creator" content="@your-twitter" /><meta name="application-name" content="FixIt">
+<meta name="apple-mobile-web-app-title" content="FixIt"><meta name="theme-color" data-light="#f8f8f8" data-dark="#252627" content="#f8f8f8"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="canonical" type="text/html" href="http://example.org/tech/build-flutter-app10/" title="利用Flutter做成应用10：打包应用 - 我的博客" /><link rel="prev" type="text/html" href="http://example.org/tech/build-flutter-app11/" title="利用Flutter做成应用11：应用市场发布" /><link rel="next" type="text/html" href="http://example.org/tech/build-flutter-app9/" title="利用Flutter做成应用9：图标与启动画面" /><link rel="alternate" type="text/markdown" href="http://example.org/tech/build-flutter-app10/index.md" title="利用Flutter做成应用10：打包应用 - 我的博客"><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="/lib/fontawesome-free/all.min.css" as="style" onload="this.removeAttribute('onload');this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"></noscript><link rel="preload" href="/lib/animate/animate.min.css" as="style" onload="this.removeAttribute('onload');this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/lib/animate/animate.min.css"></noscript><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "利用Flutter做成应用10：打包应用",
+    "inLanguage": "zh-cn",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "http:\/\/example.org\/tech\/build-flutter-app10\/"
+    },"genre": "tech","wordcount":  125 ,
+    "url": "http:\/\/example.org\/tech\/build-flutter-app10\/","datePublished": "2022-10-10T00:00:00+00:00","dateModified": "2022-10-10T20:00:00+00:00","publisher": {
+      "@type": "Organization",
+      "name": ""},"author": {
+        "@type": "Person",
+        "name": "Author"
+      },"description": "利用Flutter做成看图App"
+  }
+  </script><script src="/js/head/color-scheme.min.js"></script></head>
+  <body data-header-desktop="sticky" data-header-mobile="auto"><div class="wrapper" data-page-style="normal"><header class="desktop animate__faster" id="header-desktop">
+  <div class="header-wrapper">
+    <div class="header-title">
+      <a href="/" title="我的博客"><span class="header-title-text">我的博客</span></a><span class="header-subtitle"></span></div>
+    <nav>
+      <ul class="menu"><li class="menu-item">
+              <a class="menu-link" href="/posts/">博客</a></li><li class="menu-item">
+              <a class="menu-link" href="/tech/">技术</a></li><li class="menu-item">
+              <a class="menu-link" href="/misc/">杂谈</a></li><li class="menu-item delimiter"></li><li class="menu-item theme-switch" title="Switch Theme">
+          <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+        </li></ul>
+    </nav>
+  </div>
+</header><header class="mobile animate__faster" id="header-mobile">
+  <div class="header-container">
+    <div class="header-wrapper">
+      <div class="header-title">
+        <a href="/" title="我的博客"><span class="header-title-text">我的博客</span></a><span class="header-subtitle"></span></div>
+      <div class="menu-toggle" id="menu-toggle-mobile">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+    <nav>
+      <ul class="menu" id="menu-mobile"><li class="menu-item"><a class="menu-link" href="/posts/">博客</a></li><li class="menu-item"><a class="menu-link" href="/tech/">技术</a></li><li class="menu-item"><a class="menu-link" href="/misc/">杂谈</a></li><li class="menu-item menu-system">
+          <span class="menu-system-item theme-switch" title="Switch Theme"><i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i></span></li>
+      </ul>
+    </nav>
+  </div>
+</header><main class="container"><article class="page single special">
+    <div class="header"><h1 class="single-title animate__animated animate__pulse animate__faster">利用Flutter做成应用10：打包应用</h1></div><div class="content" id="content"><h3 class="heading-element" id="生成秘钥文件"><span>生成秘钥文件</span>
+  <a href="#%e7%94%9f%e6%88%90%e7%a7%98%e9%92%a5%e6%96%87%e4%bb%b6" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h3><p>要想把app发布到Play store，需要给app一个数字签名。</p>
+<p>在windows，[project]/android/app下执行下面的代码：</p>
+<pre tabindex="0"><code>keytool -genkey -v -keystore .\Beauty.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias Beauty</code></pre><p>输入密码等信息，即可生成秘钥文件Beauty.jks，需要保持这个文件的私有性。
+该命令会有一个Warning，建议迁移到PKCS12格式。</p>
+<p>执行下面的代码，将Beauty.jks转换为PKCS12格式，原文件会备份成old格式。</p>
+<pre tabindex="0"><code>keytool -importkeystore -srckeystore .\Beauty.jks -destkeystore .\Beauty.jks -deststoretype pkcs12</code></pre><p>使用下面的命令可以查看秘钥文件的相关信息。</p>
+<pre tabindex="0"><code>keytool -list -v -keystore .\Beauty.jks</code></pre><h3 class="heading-element" id="在app中配置秘钥文件"><span>在app中配置秘钥文件</span>
+  <a href="#%e5%9c%a8app%e4%b8%ad%e9%85%8d%e7%bd%ae%e7%a7%98%e9%92%a5%e6%96%87%e4%bb%b6" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h3><p>在[project]/android/创建文件key.properties，它包含了密钥文件相关的定义：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="n">storePassword</span><span class="o">=******</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="n">keyPassword</span><span class="o">=******</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="n">keyAlias</span><span class="o">=</span><span class="n">Beauty</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="n">storeFile</span><span class="o">=</span><span class="p">.</span><span class="o">/</span><span class="n">Beauty</span><span class="p">.</span><span class="na">jks</span></span></span></code></pre></td></tr></table>
+</div>
+</div><p>该文件也需要保持私有性。</p>
+<p>修改[project]/android/app/build.gradle文件，以通过gradle配置你的上传密钥。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-javascript" data-lang="javascript"><span class="line"><span class="cl"><span class="nx">def</span> <span class="nx">keystoreProperties</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Properties</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="nx">def</span> <span class="nx">keystorePropertiesFile</span> <span class="o">=</span> <span class="nx">rootProject</span><span class="p">.</span><span class="nx">file</span><span class="p">(</span><span class="s1">&#39;key.properties&#39;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="k">if</span> <span class="p">(</span><span class="nx">keystorePropertiesFile</span><span class="p">.</span><span class="nx">exists</span><span class="p">())</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">keystoreProperties</span><span class="p">.</span><span class="nx">load</span><span class="p">(</span><span class="k">new</span> <span class="nx">FileInputStream</span><span class="p">(</span><span class="nx">keystorePropertiesFile</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nx">android</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nx">signingConfigs</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">release</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">keyAlias</span> <span class="nx">keystoreProperties</span><span class="p">[</span><span class="s1">&#39;keyAlias&#39;</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">keyPassword</span> <span class="nx">keystoreProperties</span><span class="p">[</span><span class="s1">&#39;keyPassword&#39;</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">storeFile</span> <span class="nx">keystoreProperties</span><span class="p">[</span><span class="s1">&#39;storeFile&#39;</span><span class="p">]</span> <span class="o">?</span> <span class="nx">file</span><span class="p">(</span><span class="nx">keystoreProperties</span><span class="p">[</span><span class="s1">&#39;storeFile&#39;</span><span class="p">])</span> <span class="o">:</span> <span class="kc">null</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">storePassword</span> <span class="nx">keystoreProperties</span><span class="p">[</span><span class="s1">&#39;storePassword&#39;</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nx">buildTypes</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">release</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">            <span class="c1">//signingConfig signingConfigs.debug
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="nx">signingConfig</span> <span class="nx">signingConfigs</span><span class="p">.</span><span class="nx">release</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span></span></span></code></pre></td></tr></table>
+</div>
+</div><p>之后编译发布版本就会自动签名了。</p>
+<h3 class="heading-element" id="构建发布版本"><span>构建发布版本</span>
+  <a href="#%e6%9e%84%e5%bb%ba%e5%8f%91%e5%b8%83%e7%89%88%e6%9c%ac" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h3><p>Android Studio中，使用Build-&gt;Flutter-&gt;Build App Bundle即可。
+发布到Play Store时，推荐使用App bundle格式。</p>
+<p>如需要更新版本，修改pubspec.yaml中的version值，再重新构建即可。</p>
+</div><div id="comments"></div></article></main><footer class="footer">
+    <div class="footer-container"><div class="footer-line powered">Powered by <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreferrer" title="Hugo 0.147.8"><img class="hugo-icon" src="/images/hugo.min.svg" alt="Hugo logo" /> Hugo</a> | Theme - <a href="https://github.com/hugo-fixit/FixIt" target="_blank" rel="external" title="FixIt v0.3.21-b2e6f70a"><img class="fixit-icon" src="/images/fixit.min.svg" alt="FixIt logo" /> FixIt</a>
+        </div><div class="footer-line copyright" itemscope itemtype="http://schema.org/CreativeWork"><i class="fa-regular fa-copyright fa-fw" aria-hidden="true"></i>
+            <span itemprop="copyrightYear">2025</span><span class="author" itemprop="copyrightHolder">
+              <a href="/"></a></span></div></div>
+  </footer></div><div class="widgets"><div class="fixed-buttons animate__faster d-none"><div class="fixed-button back-to-top" role="button" aria-label="Back to Top"><i class="fa-solid fa-arrow-up fa-fw" aria-hidden="true"></i><span class="variant-numeric d-none">0%</span>
+        </div><div class="fixed-button view-comments d-none" role="button" aria-label="View Comments"><i class="fa-solid fa-comment fa-fw" aria-hidden="true"></i></div></div><div id="mask"></div><noscript>
+    <div class="noscript-warning">This website works best with JavaScript enabled.</div>
+  </noscript>
+</div><link rel="preload" href="/lib/katex/katex.min.css" as="style" onload="this.removeAttribute('onload');this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/lib/katex/katex.min.css"></noscript><link rel="stylesheet" href="/lib/cookieconsent/cookieconsent.min.css"><script src="/lib/sharer/sharer.min.js" async defer></script><script src="/lib/katex/katex.min.js" defer></script><script src="/lib/katex/auto-render.min.js" defer></script><script src="/lib/katex/copy-tex.min.js" defer></script><script src="/lib/katex/mhchem.min.js" defer></script><script src="/lib/cookieconsent/cookieconsent.min.js" defer></script><script>window.config={"code":{"copyTitle":"Copy to clipboard","editLockTitle":"Lock editable code block","editUnLockTitle":"Unlock editable code block","editable":true,"maxShownLines":10},"comment":{"enable":true,"expired":false},"cookieconsent":{"content":{"dismiss":"Got it!","link":"Learn more","message":"This website uses Cookies to improve your experience."},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":true,"left":"\\begin{equation}","right":"\\end{equation}"},{"display":true,"left":"\\begin{equation*}","right":"\\end{equation*}"},{"display":true,"left":"\\begin{align}","right":"\\end{align}"},{"display":true,"left":"\\begin{align*}","right":"\\end{align*}"},{"display":true,"left":"\\begin{alignat}","right":"\\end{alignat}"},{"display":true,"left":"\\begin{alignat*}","right":"\\end{alignat*}"},{"display":true,"left":"\\begin{gather}","right":"\\end{gather}"},{"display":true,"left":"\\begin{CD}","right":"\\end{CD}"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"version":"v0.3.21-b2e6f70a"};</script><script src="/js/theme.min.js" defer></script></body>
+</html>
