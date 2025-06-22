@@ -81,5 +81,5 @@ hugo
 ---
 
 > Author:   
-> URL: http://example.org/tech/build-hugo-site1/  
+> URL: https://yfeier.github.io/tech/build-hugo-site1/  
 

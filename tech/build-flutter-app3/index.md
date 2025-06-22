@@ -171,5 +171,5 @@ await GallerySaver.saveImage(url)
 ---
 
 > Author:   
-> URL: http://example.org/tech/build-flutter-app3/  
+> URL: https://yfeier.github.io/tech/build-flutter-app3/  
 

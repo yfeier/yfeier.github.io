@@ -1,162 +1,162 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/tech/build-hugo-site1/</loc>
+    <loc>https://yfeier.github.io/tech/build-hugo-site1/</loc>
     <lastmod>2022-03-28T20:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/build-hugo-site2/</loc>
+    <loc>https://yfeier.github.io/tech/build-hugo-site2/</loc>
     <lastmod>2022-03-28T21:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/build-hugo-site3/</loc>
+    <loc>https://yfeier.github.io/tech/build-hugo-site3/</loc>
     <lastmod>2022-03-29T21:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/build-hugo-site4/</loc>
+    <loc>https://yfeier.github.io/tech/build-hugo-site4/</loc>
     <lastmod>2022-03-30T21:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/build-hugo-site5/</loc>
+    <loc>https://yfeier.github.io/tech/build-hugo-site5/</loc>
     <lastmod>2022-03-31T16:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/build-hugo-site6/</loc>
+    <loc>https://yfeier.github.io/tech/build-hugo-site6/</loc>
     <lastmod>2022-03-31T18:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/build-hugo-site7/</loc>
+    <loc>https://yfeier.github.io/tech/build-hugo-site7/</loc>
     <lastmod>2022-04-04T18:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/build-flutter-app1/</loc>
+    <loc>https://yfeier.github.io/tech/build-flutter-app1/</loc>
     <lastmod>2022-10-01T20:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/build-flutter-app2/</loc>
+    <loc>https://yfeier.github.io/tech/build-flutter-app2/</loc>
     <lastmod>2022-10-02T20:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/build-flutter-app3/</loc>
+    <loc>https://yfeier.github.io/tech/build-flutter-app3/</loc>
     <lastmod>2022-10-03T20:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/build-flutter-app4/</loc>
+    <loc>https://yfeier.github.io/tech/build-flutter-app4/</loc>
     <lastmod>2022-10-04T20:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/build-flutter-app5/</loc>
+    <loc>https://yfeier.github.io/tech/build-flutter-app5/</loc>
     <lastmod>2022-10-05T20:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/build-flutter-app6/</loc>
+    <loc>https://yfeier.github.io/tech/build-flutter-app6/</loc>
     <lastmod>2022-10-06T20:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/build-flutter-app7/</loc>
+    <loc>https://yfeier.github.io/tech/build-flutter-app7/</loc>
     <lastmod>2022-10-07T20:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/build-flutter-app8/</loc>
+    <loc>https://yfeier.github.io/tech/build-flutter-app8/</loc>
     <lastmod>2022-10-08T20:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/build-flutter-app9/</loc>
+    <loc>https://yfeier.github.io/tech/build-flutter-app9/</loc>
     <lastmod>2022-10-09T20:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/build-flutter-app10/</loc>
+    <loc>https://yfeier.github.io/tech/build-flutter-app10/</loc>
     <lastmod>2022-10-10T20:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/build-flutter-app11/</loc>
+    <loc>https://yfeier.github.io/tech/build-flutter-app11/</loc>
     <lastmod>2022-10-11T20:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/misc/</loc>
+    <loc>https://yfeier.github.io/misc/</loc>
     <lastmod>2025-04-05T21:42:36+08:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://yfeier.github.io/</loc>
     <lastmod>2025-04-05T21:42:36+08:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tags/ai/</loc>
+    <loc>https://yfeier.github.io/tags/ai/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/posts/hello-world/</loc>
+    <loc>https://yfeier.github.io/posts/hello-world/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://yfeier.github.io/categories/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tags/fixit/</loc>
+    <loc>https://yfeier.github.io/tags/fixit/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/fixit-theme-guide/</loc>
+    <loc>https://yfeier.github.io/tech/fixit-theme-guide/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tags/hugo/</loc>
+    <loc>https://yfeier.github.io/tags/hugo/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://yfeier.github.io/posts/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://yfeier.github.io/tags/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/</loc>
+    <loc>https://yfeier.github.io/tech/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tags/%E4%B8%BB%E9%A2%98/</loc>
+    <loc>https://yfeier.github.io/tags/%E4%B8%BB%E9%A2%98/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <loc>https://yfeier.github.io/tags/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://yfeier.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://yfeier.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tech/first-tech-article/</loc>
+    <loc>https://yfeier.github.io/tech/first-tech-article/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tags/%E6%8A%80%E6%9C%AF%E8%B6%8B%E5%8A%BF/</loc>
+    <loc>https://yfeier.github.io/tags/%E6%8A%80%E6%9C%AF%E8%B6%8B%E5%8A%BF/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tags/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://yfeier.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tags/%E7%A4%BA%E4%BE%8B/</loc>
+    <loc>https://yfeier.github.io/tags/%E7%A4%BA%E4%BE%8B/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/categories/flutter/</loc>
+    <loc>https://yfeier.github.io/categories/flutter/</loc>
     <lastmod>2022-10-11T20:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/categories/hugo/</loc>
+    <loc>https://yfeier.github.io/categories/hugo/</loc>
     <lastmod>2022-04-04T18:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/collections/</loc>
+    <loc>https://yfeier.github.io/collections/</loc>
   </url>
 </urlset>

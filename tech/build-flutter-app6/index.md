@@ -149,5 +149,5 @@ Text(
 ---
 
 > Author:   
-> URL: http://example.org/tech/build-flutter-app6/  
+> URL: https://yfeier.github.io/tech/build-flutter-app6/  
 

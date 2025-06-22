@@ -210,5 +210,5 @@ runApp(MyApp());
 ---
 
 > Author:   
-> URL: http://example.org/tech/build-flutter-app8/  
+> URL: https://yfeier.github.io/tech/build-flutter-app8/  
 

@@ -158,5 +158,5 @@ if __name__ == '__main__':
 ---
 
 > Author:   
-> URL: http://example.org/tech/build-hugo-site3/  
+> URL: https://yfeier.github.io/tech/build-hugo-site3/  
 

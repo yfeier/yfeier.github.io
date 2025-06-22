@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo - Tag - 我的博客</title>
-    <link>http://example.org/tags/hugo/</link>
+    <title>Hugo - Tag - 我的杂货铺</title>
+    <link>https://yfeier.github.io/tags/hugo/</link>
     <description>我的个人博客</description>
     <generator>Hugo 0.147.8 &amp; FixIt v0.3.21-b2e6f70a</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yfeier.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo网站搭建1：环境</title>
-      <link>http://example.org/tech/build-hugo-site1/</link>
+      <link>https://yfeier.github.io/tech/build-hugo-site1/</link>
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-hugo-site1/</guid>
-      <category domain="http://example.org/categories/hugo/">Hugo</category>
+      <guid>https://yfeier.github.io/tech/build-hugo-site1/</guid>
+      <category domain="https://yfeier.github.io/categories/hugo/">Hugo</category>
       <description>&lt;h2 class=&#34;heading-element&#34; id=&#34;安装go&#34;&gt;&lt;span&gt;安装go&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e5%ae%89%e8%a3%85go&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&lt;p&gt;hugo依赖go环境，下载地址：&lt;/p&gt;</description>
     </item>
     <item>
       <title>FixIt主题使用指南</title>
-      <link>http://example.org/tech/fixit-theme-guide/</link>
+      <link>https://yfeier.github.io/tech/fixit-theme-guide/</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/fixit-theme-guide/</guid>
-      <category domain="http://example.org/categories/%E6%8A%80%E6%9C%AF/">技术</category>
+      <guid>https://yfeier.github.io/tech/fixit-theme-guide/</guid>
+      <category domain="https://yfeier.github.io/categories/%E6%8A%80%E6%9C%AF/">技术</category>
       <description>&lt;h2 class=&#34;heading-element&#34; id=&#34;fixit主题使用指南&#34;&gt;&lt;span&gt;FixIt主题使用指南&lt;/span&gt;&#xA;  &lt;a href=&#34;#fixit%e4%b8%bb%e9%a2%98%e4%bd%bf%e7%94%a8%e6%8c%87%e5%8d%97&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&lt;p&gt;FixIt是一个功能丰富、设计优雅的Hugo主题，特别适合技术博客和个人网站。本文将详细介绍如何安装、配置和使用FixIt主题。&lt;/p&gt;</description>
     </item>
     <item>
       <title>技术文章示例</title>
-      <link>http://example.org/tech/first-tech-article/</link>
+      <link>https://yfeier.github.io/tech/first-tech-article/</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/first-tech-article/</guid>
-      <category domain="http://example.org/categories/%E6%8A%80%E6%9C%AF/">技术</category>
+      <guid>https://yfeier.github.io/tech/first-tech-article/</guid>
+      <category domain="https://yfeier.github.io/categories/%E6%8A%80%E6%9C%AF/">技术</category>
       <description>&lt;h2 class=&#34;heading-element&#34; id=&#34;技术文章示例&#34;&gt;&lt;span&gt;技术文章示例&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e6%8a%80%e6%9c%af%e6%96%87%e7%ab%a0%e7%a4%ba%e4%be%8b&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&lt;p&gt;这是一篇使用FixIt主题的技术文章示例。FixIt主题支持丰富的Markdown语法和特殊功能。&lt;/p&gt;</description>
     </item>
   </channel>

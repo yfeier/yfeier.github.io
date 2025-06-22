@@ -67,5 +67,5 @@ SEUtil.play('sounds/moon.mp3');
 ---
 
 > Author:   
-> URL: http://example.org/tech/build-flutter-app7/  
+> URL: https://yfeier.github.io/tech/build-flutter-app7/  
 

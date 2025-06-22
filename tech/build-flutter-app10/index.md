@@ -77,5 +77,5 @@ Android Studio中，使用Build->Flutter->Build App Bundle即可。
 ---
 
 > Author:   
-> URL: http://example.org/tech/build-flutter-app10/  
+> URL: https://yfeier.github.io/tech/build-flutter-app10/  
 

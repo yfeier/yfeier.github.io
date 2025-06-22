@@ -1,171 +1,171 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All Tech - 我的博客</title>
-    <link>http://example.org/tech/</link>
+    <title>All Tech - 我的杂货铺</title>
+    <link>https://yfeier.github.io/tech/</link>
     <description>我的个人博客</description>
     <generator>Hugo 0.147.8 &amp; FixIt v0.3.21-b2e6f70a</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yfeier.github.io/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo网站搭建1：环境</title>
-      <link>http://example.org/tech/build-hugo-site1/</link>
+      <link>https://yfeier.github.io/tech/build-hugo-site1/</link>
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-hugo-site1/</guid>
-      <category domain="http://example.org/categories/hugo/">Hugo</category>
+      <guid>https://yfeier.github.io/tech/build-hugo-site1/</guid>
+      <category domain="https://yfeier.github.io/categories/hugo/">Hugo</category>
       <description>&lt;h2 class=&#34;heading-element&#34; id=&#34;安装go&#34;&gt;&lt;span&gt;安装go&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e5%ae%89%e8%a3%85go&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&lt;p&gt;hugo依赖go环境，下载地址：&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo网站搭建2：主题</title>
-      <link>http://example.org/tech/build-hugo-site2/</link>
+      <link>https://yfeier.github.io/tech/build-hugo-site2/</link>
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-hugo-site2/</guid>
-      <category domain="http://example.org/categories/hugo/">Hugo</category>
+      <guid>https://yfeier.github.io/tech/build-hugo-site2/</guid>
+      <category domain="https://yfeier.github.io/categories/hugo/">Hugo</category>
       <description>&lt;h2 class=&#34;heading-element&#34; id=&#34;安装主题&#34;&gt;&lt;span&gt;安装主题&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e5%ae%89%e8%a3%85%e4%b8%bb%e9%a2%98&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&lt;p&gt;可从该网站选择合适的主题。&lt;br&gt;&#xA;&lt;a href=&#34;https://themes.gohugo.io/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://themes.gohugo.io/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo网站搭建3：图片</title>
-      <link>http://example.org/tech/build-hugo-site3/</link>
+      <link>https://yfeier.github.io/tech/build-hugo-site3/</link>
       <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-hugo-site3/</guid>
-      <category domain="http://example.org/categories/hugo/">Hugo</category>
+      <guid>https://yfeier.github.io/tech/build-hugo-site3/</guid>
+      <category domain="https://yfeier.github.io/categories/hugo/">Hugo</category>
       <description>&lt;h2 class=&#34;heading-element&#34; id=&#34;图片存储&#34;&gt;&lt;span&gt;图片存储&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e5%9b%be%e7%89%87%e5%ad%98%e5%82%a8&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://avgle.top/pages/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;本网站&lt;/a&gt;主要展示图片，因此需要将图片存储到网络上。&lt;br&gt;&#xA;对于个人网站，最好挑选一个免费的图片空间。&lt;br&gt;&#xA;经过挑选，这里使用&lt;a href=&#34;https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/fxh9oezpff5hjdmadvzq?t=default&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;Cloudinary&lt;/a&gt;网站。&lt;br&gt;&#xA;该网站提供25Credit免费使用量。如果访问量大，也可升级收费版本。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo网站搭建4：内容</title>
-      <link>http://example.org/tech/build-hugo-site4/</link>
+      <link>https://yfeier.github.io/tech/build-hugo-site4/</link>
       <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-hugo-site4/</guid>
-      <category domain="http://example.org/categories/hugo/">Hugo</category>
+      <guid>https://yfeier.github.io/tech/build-hugo-site4/</guid>
+      <category domain="https://yfeier.github.io/categories/hugo/">Hugo</category>
       <description>&lt;h2 class=&#34;heading-element&#34; id=&#34;图片网页制作&#34;&gt;&lt;span&gt;图片网页制作&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e5%9b%be%e7%89%87%e7%bd%91%e9%a1%b5%e5%88%b6%e4%bd%9c&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&lt;p&gt;图片上传到资源库后，需要制作展示图片的网页。&lt;br&gt;&#xA;只需要图片网址即可展示图片。在图片很多的情况下，可通过脚本来制作展示图片的网页。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo网站搭建5：评论</title>
-      <link>http://example.org/tech/build-hugo-site5/</link>
+      <link>https://yfeier.github.io/tech/build-hugo-site5/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-hugo-site5/</guid>
-      <category domain="http://example.org/categories/hugo/">Hugo</category>
+      <guid>https://yfeier.github.io/tech/build-hugo-site5/</guid>
+      <category domain="https://yfeier.github.io/categories/hugo/">Hugo</category>
       <description>&lt;p&gt;在静态网页中添加评论功能，可使用第三方评论系统。&lt;/p&gt;&#xA;&lt;h2 class=&#34;heading-element&#34; id=&#34;valine评论系统&#34;&gt;&lt;span&gt;Valine评论系统&lt;/span&gt;&#xA;  &lt;a href=&#34;#valine%e8%af%84%e8%ae%ba%e7%b3%bb%e7%bb%9f&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&lt;p&gt;Valine是一款基于&lt;a href=&#34;https://leancloud.app/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;LeanCloud&lt;/a&gt;的快速、简洁且高效的无后端评论系统。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo网站搭建6：统计</title>
-      <link>http://example.org/tech/build-hugo-site6/</link>
+      <link>https://yfeier.github.io/tech/build-hugo-site6/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-hugo-site6/</guid>
-      <category domain="http://example.org/categories/hugo/">Hugo</category>
+      <guid>https://yfeier.github.io/tech/build-hugo-site6/</guid>
+      <category domain="https://yfeier.github.io/categories/hugo/">Hugo</category>
       <description>&lt;p&gt;如果希望统计网站的访问量等数据，可以在网页中加入统计代码。&lt;/p&gt;&#xA;&lt;h2 class=&#34;heading-element&#34; id=&#34;百度统计&#34;&gt;&lt;span&gt;百度统计&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e7%99%be%e5%ba%a6%e7%bb%9f%e8%ae%a1&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://tongji.baidu.com/web/homepage/index&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://tongji.baidu.com/web/homepage/index&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo网站搭建7：发布</title>
-      <link>http://example.org/tech/build-hugo-site7/</link>
+      <link>https://yfeier.github.io/tech/build-hugo-site7/</link>
       <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-hugo-site7/</guid>
-      <category domain="http://example.org/categories/hugo/">Hugo</category>
+      <guid>https://yfeier.github.io/tech/build-hugo-site7/</guid>
+      <category domain="https://yfeier.github.io/categories/hugo/">Hugo</category>
       <description>&lt;p&gt;网站做好后，需要发布到网络上，github和gitlab都提供了免费的Pages功能。&lt;/p&gt;&#xA;&lt;p&gt;github的Pages功能：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;项目必须是公开属性&lt;/li&gt;&#xA;&lt;li&gt;必须上传hugo编译后的网站文件&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;gitlab的Pages功能：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;项目可以是私有&lt;/li&gt;&#xA;&lt;li&gt;可以上传hugo网站原始文件，gitlab提供了自动编译功能。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;本网站选用gitlab的Pages。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gitlab.com/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://gitlab.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;新建一个项目，项目名必须为【用户名.gitlab.io】。&#xA;将hugo文件提交到项目后，配置CI/CD自动构建脚本，如果新建项目时选的是hugo项目，该脚本会自动生成。&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;&#xA;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20&#xA;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&#xA;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-makefile&#34; data-lang=&#34;makefile&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;# All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;registry&lt;/span&gt;.&lt;span class=&#34;n&#34;&gt;gitlab&lt;/span&gt;.&lt;span class=&#34;n&#34;&gt;com&lt;/span&gt;/&lt;span class=&#34;n&#34;&gt;pages&lt;/span&gt;/&lt;span class=&#34;n&#34;&gt;hugo&lt;/span&gt;:&lt;span class=&#34;n&#34;&gt;latest&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;variables&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  GIT_SUBMODULE_STRATEGY: recursive&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;test&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  script:&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - hugo&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  except:&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - master&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;pages&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  script:&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - hugo&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  artifacts:&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    paths:&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    - public&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  only:&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - master&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&lt;p&gt;每次提交代码到gitlab后，该流水线会自动执行，运行hugo生成网站文件。&lt;/p&gt;</description>
     </item>
     <item>
       <title>利用Flutter做成应用1：环境</title>
-      <link>http://example.org/tech/build-flutter-app1/</link>
+      <link>https://yfeier.github.io/tech/build-flutter-app1/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-flutter-app1/</guid>
-      <category domain="http://example.org/categories/flutter/">Flutter</category>
+      <guid>https://yfeier.github.io/tech/build-flutter-app1/</guid>
+      <category domain="https://yfeier.github.io/categories/flutter/">Flutter</category>
       <description>&lt;h2 class=&#34;heading-element&#34; id=&#34;在windows上搭建flutter开发环境&#34;&gt;&lt;span&gt;在Windows上搭建Flutter开发环境&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e5%9c%a8windows%e4%b8%8a%e6%90%ad%e5%bb%baflutter%e5%bc%80%e5%8f%91%e7%8e%af%e5%a2%83&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&lt;p&gt;如果访问Flutter受到限制，在环境变量中加入下面的变量&lt;/p&gt;</description>
     </item>
     <item>
       <title>利用Flutter做成应用2：APP做成</title>
-      <link>http://example.org/tech/build-flutter-app2/</link>
+      <link>https://yfeier.github.io/tech/build-flutter-app2/</link>
       <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-flutter-app2/</guid>
-      <category domain="http://example.org/categories/flutter/">Flutter</category>
+      <guid>https://yfeier.github.io/tech/build-flutter-app2/</guid>
+      <category domain="https://yfeier.github.io/categories/flutter/">Flutter</category>
       <description>&lt;h3 class=&#34;heading-element&#34; id=&#34;通过android-studio创建应用&#34;&gt;&lt;span&gt;通过android studio创建应用&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e9%80%9a%e8%bf%87android-studio%e5%88%9b%e5%bb%ba%e5%ba%94%e7%94%a8&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&lt;ol&gt;&#xA;&lt;li&gt;选择 File&amp;gt;New Flutter Project&lt;/li&gt;&#xA;&lt;li&gt;选择 Flutter application 作为 project 类型, 然后点击 Next&lt;/li&gt;&#xA;&lt;li&gt;输入项目名称 (如 myapp), 然后点击 Next&lt;/li&gt;&#xA;&lt;li&gt;点击 Finish&lt;/li&gt;&#xA;&lt;li&gt;等待Android Studio安装SDK并创建项目.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;使用如下代码，做成一个空的app，该app有一个AppBar，底部有四个按钮。&lt;/p&gt;</description>
     </item>
     <item>
       <title>利用Flutter做成应用3：图片</title>
-      <link>http://example.org/tech/build-flutter-app3/</link>
+      <link>https://yfeier.github.io/tech/build-flutter-app3/</link>
       <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-flutter-app3/</guid>
-      <category domain="http://example.org/categories/flutter/">Flutter</category>
+      <guid>https://yfeier.github.io/tech/build-flutter-app3/</guid>
+      <category domain="https://yfeier.github.io/categories/flutter/">Flutter</category>
       <description>&lt;h3 class=&#34;heading-element&#34; id=&#34;获取网络图片&#34;&gt;&lt;span&gt;获取网络图片&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e8%8e%b7%e5%8f%96%e7%bd%91%e7%bb%9c%e5%9b%be%e7%89%87&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&lt;p&gt;需要预先将app需要展示的图片存储到网络空间。本应用将图片存储到&lt;a href=&#34;https://cloudinary.com/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;cloudinary&lt;/a&gt;。&lt;/p&gt;</description>
     </item>
     <item>
       <title>利用Flutter做成应用4：存储</title>
-      <link>http://example.org/tech/build-flutter-app4/</link>
+      <link>https://yfeier.github.io/tech/build-flutter-app4/</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-flutter-app4/</guid>
-      <category domain="http://example.org/categories/flutter/">Flutter</category>
+      <guid>https://yfeier.github.io/tech/build-flutter-app4/</guid>
+      <category domain="https://yfeier.github.io/categories/flutter/">Flutter</category>
       <description>&lt;h3 class=&#34;heading-element&#34; id=&#34;键值数据存储&#34;&gt;&lt;span&gt;键值数据存储&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e9%94%ae%e5%80%bc%e6%95%b0%e6%8d%ae%e5%ad%98%e5%82%a8&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&lt;p&gt;对于简单的数据存储，可以使用插件&lt;a href=&#34;https://pub.flutter-io.cn/packages/sp_util&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;sp_util&lt;/a&gt;方便的读写数据，该插件是对&lt;a href=&#34;https://pub.flutter-io.cn/packages/shared_preferences&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;shared_preferences&lt;/a&gt;的实用包装。&lt;/p&gt;</description>
     </item>
     <item>
       <title>利用Flutter做成应用5：抽屉菜单</title>
-      <link>http://example.org/tech/build-flutter-app5/</link>
+      <link>https://yfeier.github.io/tech/build-flutter-app5/</link>
       <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-flutter-app5/</guid>
-      <category domain="http://example.org/categories/flutter/">Flutter</category>
+      <guid>https://yfeier.github.io/tech/build-flutter-app5/</guid>
+      <category domain="https://yfeier.github.io/categories/flutter/">Flutter</category>
       <description>&lt;h3 class=&#34;heading-element&#34; id=&#34;抽屉菜单&#34;&gt;&lt;span&gt;抽屉菜单&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e6%8a%bd%e5%b1%89%e8%8f%9c%e5%8d%95&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&lt;p&gt;为了在app的顶部左边添加滑出菜单，需要在Scaffold中添加drawer字段，此时在appbar的左侧会出现一个三道杠的图标，点击后即可弹出自定义的菜单。&lt;/p&gt;</description>
     </item>
     <item>
       <title>利用Flutter做成应用6：主题，字体与资源</title>
-      <link>http://example.org/tech/build-flutter-app6/</link>
+      <link>https://yfeier.github.io/tech/build-flutter-app6/</link>
       <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-flutter-app6/</guid>
-      <category domain="http://example.org/categories/flutter/">Flutter</category>
+      <guid>https://yfeier.github.io/tech/build-flutter-app6/</guid>
+      <category domain="https://yfeier.github.io/categories/flutter/">Flutter</category>
       <description>&lt;h3 class=&#34;heading-element&#34; id=&#34;主题&#34;&gt;&lt;span&gt;主题&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e4%b8%bb%e9%a2%98&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&lt;p&gt;设置主题的不同颜色，可通过插件&lt;a href=&#34;https://pub.flutter-io.cn/packages/provider&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;provider&lt;/a&gt;来实现对主题颜色的状态变化的管理。&lt;/p&gt;</description>
     </item>
     <item>
       <title>利用Flutter做成应用7：音乐播放</title>
-      <link>http://example.org/tech/build-flutter-app7/</link>
+      <link>https://yfeier.github.io/tech/build-flutter-app7/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-flutter-app7/</guid>
-      <category domain="http://example.org/categories/flutter/">Flutter</category>
+      <guid>https://yfeier.github.io/tech/build-flutter-app7/</guid>
+      <category domain="https://yfeier.github.io/categories/flutter/">Flutter</category>
       <description>&lt;h3 class=&#34;heading-element&#34; id=&#34;音乐播放&#34;&gt;&lt;span&gt;音乐播放&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e9%9f%b3%e4%b9%90%e6%92%ad%e6%94%be&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&lt;p&gt;为了在app中播放音乐，可使用插件&lt;a href=&#34;https://pub.flutter-io.cn/packages/audioplayers&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;audioplayers&lt;/a&gt;。&lt;/p&gt;</description>
     </item>
     <item>
       <title>利用Flutter做成应用8：Google广告</title>
-      <link>http://example.org/tech/build-flutter-app8/</link>
+      <link>https://yfeier.github.io/tech/build-flutter-app8/</link>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-flutter-app8/</guid>
-      <category domain="http://example.org/categories/flutter/">Flutter</category>
+      <guid>https://yfeier.github.io/tech/build-flutter-app8/</guid>
+      <category domain="https://yfeier.github.io/categories/flutter/">Flutter</category>
       <description>&lt;h3 class=&#34;heading-element&#34; id=&#34;google广告&#34;&gt;&lt;span&gt;Google广告&lt;/span&gt;&#xA;  &lt;a href=&#34;#google%e5%b9%bf%e5%91%8a&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;在下面网站上先设置一个新应用。&lt;br&gt;&#xA;&lt;a href=&#34;https://apps.admob.com&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://apps.admob.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;创建应用后可以获取应用ID，并在AndroidManifest.xml中添加以下字段。&lt;/p&gt;</description>
     </item>
     <item>
       <title>利用Flutter做成应用9：图标与启动画面</title>
-      <link>http://example.org/tech/build-flutter-app9/</link>
+      <link>https://yfeier.github.io/tech/build-flutter-app9/</link>
       <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-flutter-app9/</guid>
-      <category domain="http://example.org/categories/flutter/">Flutter</category>
+      <guid>https://yfeier.github.io/tech/build-flutter-app9/</guid>
+      <category domain="https://yfeier.github.io/categories/flutter/">Flutter</category>
       <description>&lt;h3 class=&#34;heading-element&#34; id=&#34;app启动图标&#34;&gt;&lt;span&gt;APP启动图标&lt;/span&gt;&#xA;  &lt;a href=&#34;#app%e5%90%af%e5%8a%a8%e5%9b%be%e6%a0%87&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&lt;p&gt;使用插件&lt;a href=&#34;https://pub.flutter-io.cn/packages/flutter_launcher_icons&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;flutter_launcher_icons&lt;/a&gt;来做成App的启动图标。&lt;/p&gt;</description>
     </item>
     <item>
       <title>利用Flutter做成应用10：打包应用</title>
-      <link>http://example.org/tech/build-flutter-app10/</link>
+      <link>https://yfeier.github.io/tech/build-flutter-app10/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-flutter-app10/</guid>
-      <category domain="http://example.org/categories/flutter/">Flutter</category>
+      <guid>https://yfeier.github.io/tech/build-flutter-app10/</guid>
+      <category domain="https://yfeier.github.io/categories/flutter/">Flutter</category>
       <description>&lt;h3 class=&#34;heading-element&#34; id=&#34;生成秘钥文件&#34;&gt;&lt;span&gt;生成秘钥文件&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e7%94%9f%e6%88%90%e7%a7%98%e9%92%a5%e6%96%87%e4%bb%b6&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&lt;p&gt;要想把app发布到Play store，需要给app一个数字签名。&lt;/p&gt;</description>
     </item>
     <item>
       <title>利用Flutter做成应用11：应用市场发布</title>
-      <link>http://example.org/tech/build-flutter-app11/</link>
+      <link>https://yfeier.github.io/tech/build-flutter-app11/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/build-flutter-app11/</guid>
-      <category domain="http://example.org/categories/flutter/">Flutter</category>
+      <guid>https://yfeier.github.io/tech/build-flutter-app11/</guid>
+      <category domain="https://yfeier.github.io/categories/flutter/">Flutter</category>
       <description>&lt;h3 class=&#34;heading-element&#34; id=&#34;将应用发布到google应用市场&#34;&gt;&lt;span&gt;将应用发布到Google应用市场&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e5%b0%86%e5%ba%94%e7%94%a8%e5%8f%91%e5%b8%83%e5%88%b0google%e5%ba%94%e7%94%a8%e5%b8%82%e5%9c%ba&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&lt;p&gt;进入&lt;a href=&#34;https://play.google.com/console/developers&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;Google Play控制台&lt;/a&gt;，创建一个应用。&lt;/p&gt;</description>
     </item>
     <item>
       <title>FixIt主题使用指南</title>
-      <link>http://example.org/tech/fixit-theme-guide/</link>
+      <link>https://yfeier.github.io/tech/fixit-theme-guide/</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/fixit-theme-guide/</guid>
-      <category domain="http://example.org/categories/%E6%8A%80%E6%9C%AF/">技术</category>
+      <guid>https://yfeier.github.io/tech/fixit-theme-guide/</guid>
+      <category domain="https://yfeier.github.io/categories/%E6%8A%80%E6%9C%AF/">技术</category>
       <description>&lt;h2 class=&#34;heading-element&#34; id=&#34;fixit主题使用指南&#34;&gt;&lt;span&gt;FixIt主题使用指南&lt;/span&gt;&#xA;  &lt;a href=&#34;#fixit%e4%b8%bb%e9%a2%98%e4%bd%bf%e7%94%a8%e6%8c%87%e5%8d%97&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&lt;p&gt;FixIt是一个功能丰富、设计优雅的Hugo主题，特别适合技术博客和个人网站。本文将详细介绍如何安装、配置和使用FixIt主题。&lt;/p&gt;</description>
     </item>
     <item>
       <title>技术文章示例</title>
-      <link>http://example.org/tech/first-tech-article/</link>
+      <link>https://yfeier.github.io/tech/first-tech-article/</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tech/first-tech-article/</guid>
-      <category domain="http://example.org/categories/%E6%8A%80%E6%9C%AF/">技术</category>
+      <guid>https://yfeier.github.io/tech/first-tech-article/</guid>
+      <category domain="https://yfeier.github.io/categories/%E6%8A%80%E6%9C%AF/">技术</category>
       <description>&lt;h2 class=&#34;heading-element&#34; id=&#34;技术文章示例&#34;&gt;&lt;span&gt;技术文章示例&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e6%8a%80%e6%9c%af%e6%96%87%e7%ab%a0%e7%a4%ba%e4%be%8b&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&lt;p&gt;这是一篇使用FixIt主题的技术文章示例。FixIt主题支持丰富的Markdown语法和特殊功能。&lt;/p&gt;</description>
     </item>
   </channel>

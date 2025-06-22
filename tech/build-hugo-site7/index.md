@@ -62,5 +62,5 @@ pages:
 ---
 
 > Author:   
-> URL: http://example.org/tech/build-hugo-site7/  
+> URL: https://yfeier.github.io/tech/build-hugo-site7/  
 

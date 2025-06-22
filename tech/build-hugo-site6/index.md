@@ -65,5 +65,5 @@ Cloudflare端还可以打开SSL/TLS加密模式，使网站访问网址支持htt
 ---
 
 > Author:   
-> URL: http://example.org/tech/build-hugo-site6/  
+> URL: https://yfeier.github.io/tech/build-hugo-site6/  
 
