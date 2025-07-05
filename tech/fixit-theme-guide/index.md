@@ -188,5 +188,5 @@ FixIt主题提供了丰富的功能和灵活的配置选项，通过合理使用
 ---
 
 > Author:   
-> URL: https://yfeier.github.io/tech/fixit-theme-guide/  
+> URL: http://localhost:1313/tech/fixit-theme-guide/  
 

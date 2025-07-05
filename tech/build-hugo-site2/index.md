@@ -30,5 +30,5 @@ themes文件夹下面可放置不同的主题，在配置中设置当前使用�
 ---
 
 > Author:   
-> URL: https://yfeier.github.io/tech/build-hugo-site2/  
+> URL: http://localhost:1313/tech/build-hugo-site2/  
 

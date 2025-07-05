@@ -58,5 +58,5 @@ AI技术的发展将继续加速，我们可能会看到：
 ---
 
 > Author:   
-> URL: https://yfeier.github.io/posts/hello-world/  
+> URL: http://localhost:1313/posts/hello-world/  
 

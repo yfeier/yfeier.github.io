@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>All Misc - 我的杂货铺</title>
-    <link>https://yfeier.github.io/misc/</link>
+    <link>http://localhost:1313/misc/</link>
     <description>我的个人博客</description>
     <generator>Hugo 0.147.8 &amp; FixIt v0.3.21-b2e6f70a</generator>
     <language>zh-cn</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://yfeier.github.io/misc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/misc/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -158,5 +158,5 @@ if __name__ == '__main__':
 ---
 
 > Author:   
-> URL: https://yfeier.github.io/tech/build-hugo-site3/  
+> URL: http://localhost:1313/tech/build-hugo-site3/  
 

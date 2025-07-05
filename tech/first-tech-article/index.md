@@ -62,5 +62,5 @@ FixIt主题提供了丰富的功能和优雅的界面，非常适合技术博客
 ---
 
 > Author:   
-> URL: https://yfeier.github.io/tech/first-tech-article/  
+> URL: http://localhost:1313/tech/first-tech-article/  
 

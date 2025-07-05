@@ -62,5 +62,5 @@ pages:
 ---
 
 > Author:   
-> URL: https://yfeier.github.io/tech/build-hugo-site7/  
+> URL: http://localhost:1313/tech/build-hugo-site7/  
 

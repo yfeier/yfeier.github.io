@@ -88,5 +88,5 @@ set NO_PROXY=localhost,127.0.0.1,::1
 ---
 
 > Author:   
-> URL: https://yfeier.github.io/tech/build-flutter-app1/  
+> URL: http://localhost:1313/tech/build-flutter-app1/  
 
